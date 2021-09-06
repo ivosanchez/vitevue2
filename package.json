@@ -8,7 +8,7 @@
     "serve": "ws --directory dist --spa index.html --open"
   },
   "dependencies": {
-    "vue": "^3.0.5",
+    "vue": "^3.2.9",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
